@@ -1,19 +1,25 @@
 package com.by.addressbooksystem.uc1;
 
+import java.util.Comparator;
+
 import lombok.Builder;
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-import lombok.Value;
+
 
 @Builder
 @Setter
 @Getter
 @ToString
-public class Contact {
+@EqualsAndHashCode(onlyExplicitlyIncluded = true)
+public class Contact{
 	
+	@EqualsAndHashCode.Include
 	private String firstName;
 	
+	@EqualsAndHashCode.Include
 	private String lastName;
 	
 	private String address;
@@ -27,5 +33,6 @@ public class Contact {
 	private String phoneNumber;
 	
 	private String email;
-
+	
+	private String cmpVal;
 }
