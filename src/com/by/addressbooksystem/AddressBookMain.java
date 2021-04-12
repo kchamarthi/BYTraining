@@ -205,21 +205,21 @@ public class AddressBookMain {
 		
 		/*String strFirstName = "Kranthi";
 		String strLastName = "Kumarr";
-		String strAddress = "Kammanahalli";
-		String strCity = "Bangalore";
-		String strState = "Karnataka";
-		String strZip = "560076";
-		String strPhNumber = "9550161212";
-		String strEmail = "kranthi.chamarthi@by.com";
+		String strAddress = "dfghjkl";
+		String strCity = "sdfghjkl";
+		String strState = "cvbnm";
+		String strZip = "2345678";
+		String strPhNumber = "123456788";
+		String strEmail = "kr.c@b.com";
 		
 		String strFirstNamee = "Kranthi";
 		String strLastNamee = "Kumar";
-		String strAddresss = "Kammanahalli";
-		String strCityy = "Ahmedabad";
-		String strStatee = "Karnataka";
-		String strZipp = "560076";
-		String strPhNumberr = "9550161212";
-		String strEmaill = "kranthi.chamarthi@by.com";*/
+		String strAddresss = "ghjkl";
+		String strCityy = "xcvbnm";
+		String strStatee = "cvbnm";
+		String strZipp = "234567890";
+		String strPhNumberr = "123456788";
+		String strEmaill = "kr.c@b.com";*/
 		 
 
 		Contact contct = Contact.builder().firstName(strFirstName).lastName(strLastName).address(strAddress)
