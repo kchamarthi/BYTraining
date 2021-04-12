@@ -203,8 +203,8 @@ public class AddressBookMain {
 		String strEmail = scanValue.nextLine();
 
 		
-		/*String strFirstName = "Kranthi";
-		String strLastName = "Kumarr";
+		/*String strFirstName = "sdfghj";
+		String strLastName = "sdfgh";
 		String strAddress = "dfghjkl";
 		String strCity = "sdfghjkl";
 		String strState = "cvbnm";
@@ -212,8 +212,8 @@ public class AddressBookMain {
 		String strPhNumber = "123456788";
 		String strEmail = "kr.c@b.com";
 		
-		String strFirstNamee = "Kranthi";
-		String strLastNamee = "Kumar";
+		String strFirstNamee = "dfghjk";
+		String strLastNamee = "xcvbnm";
 		String strAddresss = "ghjkl";
 		String strCityy = "xcvbnm";
 		String strStatee = "cvbnm";
